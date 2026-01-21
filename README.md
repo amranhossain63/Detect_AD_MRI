@@ -11,3 +11,7 @@ Adult-onset dementia disorders represent a challenge for modern medicine. Alzhei
 
 
 ### Keywords: Dementia; Alzheimer’s disease; machine learning; prediction; performance; AUROC
+
+
+
+#### https://doi.org/10.3390/diagnostics11112103
