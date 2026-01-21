@@ -1,4 +1,4 @@
-# Detect Alzheimer’s Disease from MRI Usin ML
+# Detect Alzheimer’s Disease from MRI Using ML
 
 
 ## Improved Alzheimer’s Disease Detection by MRI Using Multimodal Machine Learning Algorithms
